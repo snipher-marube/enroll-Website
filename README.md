@@ -1,2 +1,2 @@
 # enroll-Website
-sample enroll website
+sample enroll static website
